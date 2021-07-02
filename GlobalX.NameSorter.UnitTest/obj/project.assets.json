@@ -5961,9 +5961,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\GlobalX.NameSorter.UnitTest.csproj",
-      "projectName": "GlobalX.NameSorter.UnitTest",
-      "projectPath": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\GlobalX.NameSorter.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\NameSorter.UnitTest.csproj",
+      "projectName": "NameSorter.UnitTest",
+      "projectPath": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\NameSorter.UnitTest.csproj",
       "packagesPath": "C:\\Users\\RudhraRaji\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\obj\\",
       "projectStyle": "PackageReference",

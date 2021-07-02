@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalX.NameSorter", "NameSorter\GlobalX.NameSorter.csproj", "{898C10A4-4D39-4A76-9026-6DF529BFA773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalX.NameSorter.UnitTest", "GlobalX.NameSorter.UnitTest\GlobalX.NameSorter.UnitTest.csproj", "{D7BAD3E7-57D1-471B-90E4-AAA42DB0B58F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameSorter.UnitTest", "GlobalX.NameSorter.UnitTest\NameSorter.UnitTest.csproj", "{D7BAD3E7-57D1-471B-90E4-AAA42DB0B58F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
