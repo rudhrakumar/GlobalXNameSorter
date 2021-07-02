@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/GlobalX.NameSorter.UnitTest/bin
+/GlobalX.NameSorter.UnitTest/obj
+/NameSorter/bin/Debug/netcoreapp3.1
+/NameSorter/obj
