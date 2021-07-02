@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,10 +6,6 @@
     <AssemblyName>name-sorter</AssemblyName>
     <RootNamespace>GlobalX.NameSorter</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="xunit.analyzers" Version="0.10.0" />
-  </ItemGroup>
 
   <ItemGroup>
     <None Update="unsorted-names-list.txt">

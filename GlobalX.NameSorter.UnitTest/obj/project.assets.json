@@ -1674,9 +1674,6 @@
       "name-sorter/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "xunit.analyzers": "0.10.0"
-        },
         "compile": {
           "bin/placeholder/name-sorter.dll": {}
         },
@@ -5897,7 +5894,6 @@
       "coverlet.collector >= 3.0.2",
       "name-sorter >= 1.0.0",
       "xunit >= 2.4.1",
-      "xunit.analyzers >= 0.10.0",
       "xunit.extensibility.core >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
     ]
@@ -5962,10 +5958,6 @@
           "xunit": {
             "target": "Package",
             "version": "[2.4.1, )"
-          },
-          "xunit.analyzers": {
-            "target": "Package",
-            "version": "[0.10.0, )"
           },
           "xunit.extensibility.core": {
             "target": "Package",
