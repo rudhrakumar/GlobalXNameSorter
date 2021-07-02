@@ -5961,11 +5961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\NameSorter.UnitTest.csproj",
-      "projectName": "NameSorter.UnitTest",
-      "projectPath": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\NameSorter.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\RudhraRaji\\source\\repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\UnitTest.csproj",
+      "projectName": "UnitTest",
+      "projectPath": "C:\\Users\\RudhraRaji\\source\\repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\RudhraRaji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\RudhraRaji\\source\\repos\\rudhrakumar\\GlobalXNameSorter\\GlobalX.NameSorter.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5985,8 +5985,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\NameSorter\\GlobalX.NameSorter.csproj": {
-              "projectPath": "C:\\Users\\RudhraRaji\\Source\\Repos\\rudhrakumar\\GlobalXNameSorter\\NameSorter\\GlobalX.NameSorter.csproj"
+            "C:\\Users\\RudhraRaji\\source\\repos\\rudhrakumar\\GlobalXNameSorter\\NameSorter\\GlobalX.NameSorter.csproj": {
+              "projectPath": "C:\\Users\\RudhraRaji\\source\\repos\\rudhrakumar\\GlobalXNameSorter\\NameSorter\\GlobalX.NameSorter.csproj"
             }
           }
         }
