@@ -1674,6 +1674,9 @@
       "name-sorter/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "xunit.analyzers": "0.10.0"
+        },
         "compile": {
           "bin/placeholder/name-sorter.dll": {}
         },

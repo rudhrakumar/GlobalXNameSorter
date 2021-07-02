@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="xunit.analyzers" Version="0.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="unsorted-names-list.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
