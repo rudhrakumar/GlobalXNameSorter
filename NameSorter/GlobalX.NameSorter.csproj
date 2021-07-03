@@ -6,6 +6,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AssemblyName>name-sorter</AssemblyName>
     <RootNamespace>GlobalX.NameSorter</RootNamespace>
+    <StartupObject>Program</StartupObject>
+    <EnableNETAnalyzers>false</EnableNETAnalyzers>
   </PropertyGroup>
 
   <ItemGroup>
