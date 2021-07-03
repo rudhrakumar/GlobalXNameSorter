@@ -29,11 +29,9 @@ namespace GlobalX.NameSorter.Utils
                         while ((line = sr.ReadLine()) != null)
                         {
                             string[] words = line?.Split(' ');
-                            //Console.WriteLine(line);
                             if (words?.Length > 0)
                             {
                                 // Exclude the last item from the name string using linq query
-                                //var firstName = words.Take(words.Length - 1); 
                                 var firstName = string.Join(" ", (words.Take(words.Length - 1))).ToString(); 
                                 var lastName = words.Last().ToString();
                                 unsortedNamesList.Add(new Person

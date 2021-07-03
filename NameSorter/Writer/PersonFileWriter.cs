@@ -7,7 +7,7 @@ namespace GlobalX.NameSorter.Writer
 {
     /// <summary>
     /// Writes the list of person provided to 
-    /// the file 
+    /// the file. File name is passed in the constructor
     /// </summary>
     class PersonFileWriter : IDataWriter
     {

@@ -4,16 +4,22 @@ using Xunit;
 
 namespace GlobalX.NameSorter.UnitTest
 {
+    /// <summary>
+    /// Unit test to validate the PersonSortHelper class functionality
+    /// </summary>
     public class PersonSortHelperTest
     {
+        /// <summary>
+        /// Test cases to compare two names are sorted correctly
+        /// </summary>
         PersonSortHelper sorthelper = new PersonSortHelper();
         [Fact]
         public void personSortHelperTest_Person1lastNameComesFirst()
         {
+            // Set up test data and test the result
             var person1 = new Person() { FirstName = "Alpha", LastName = "Beta" };
             var person2 = new Person() { FirstName = "Alpha", LastName = "Gama" };
             var result = sorthelper.Compare(person1, person2);
-            
             Assert.Equal(-1, result);
         }
         [Fact]

@@ -8,7 +8,6 @@ using System.IO;
 
 class Program
 {
-
     static void Main(string[] args)
     {
         string inputFile = "";
@@ -34,9 +33,8 @@ class Program
         {
             Console.WriteLine(x.ToString());
         });
-        // Write to file
+        // Write to file named sorted-names-list.txt
         IDataWriter fileWriter = new PersonFileWriter($"{basePath}\\sorted-names-list.txt");
         fileWriter.Save(nameList);
     }
-
 }
