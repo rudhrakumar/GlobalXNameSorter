@@ -3,7 +3,7 @@ solution: GlobalX.NameSorter.sln
 
 install:
   - nuget restore GlobalX.NameSorter.sln
-  - nuget Install-Package xunit.runner.console -Version 2.4.1  -OutputDirectory testrunner
+  - nuget Install xunit.runner.console -Version 2.4.1  -OutputDirectory testrunner
 script:
   - msbuild /p:Configuration=Release GlobalX.NameSorter.sln
   - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./GlobalX.NameSorter.UnitTest/bin/Release/netcoreapp3.1/UnitTest.dll
