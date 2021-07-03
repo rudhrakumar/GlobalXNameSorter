@@ -11,7 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="NameSorter.runtimeconfig.json">
+    <None Update="name-sorter.runtimeconfig.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="unsorted-names-list.txt">
